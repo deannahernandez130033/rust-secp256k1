@@ -481,3 +481,5 @@ Note that this is only intended for encoding points where both the x-coordinate 
 where the y-coordinate is implicitly even (or implicitly square, or implicitly in $[0,q/2]$), the encoder in
 [Section 3.5](#35-encoding-for-secp256k1) must be used, or a bias is reintroduced that undoes all the benefit of using ElligatorSwift
 in the first place.
+
+<!-- Auto-update: 2025-10-03T12:17:12.427652 -->
