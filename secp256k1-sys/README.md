@@ -50,3 +50,5 @@ to your `RUSTFLAGS` variable.
 ## Minimum Supported Rust Version
 
 This library should always compile with any combination of features on **Rust 1.56.1**.
+
+<!-- Auto-update: 2025-10-06T10:43:03.783693 -->
